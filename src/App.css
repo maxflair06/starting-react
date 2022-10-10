@@ -7,6 +7,9 @@ th {
     font-size: x-large;
 }
 
-table {
-    display: table;
+
+input {
+    width: 100%;
+    font-size: x-large;
+    padding: 0.2rem;
 }
